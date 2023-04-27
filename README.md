@@ -1,2 +1,2 @@
-# tower of hanoi with-cpp.
+# tower of hanoi with cpp.
 queue and stack.
